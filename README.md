@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif?auto=format,compress&gif-q=60&format=webm)
 <!--
 **sanyaman/sanyaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
