@@ -1,1 +1,1 @@
-  ![image](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+  ![image](https://steamuserimages-a.akamaihd.net/ugc/2032859102525810954/8D8A81202F2BD12D96F66193D4AF2AEDF7D6F56F/?imw=160&imh=160&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
