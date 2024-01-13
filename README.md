@@ -49,6 +49,7 @@
         <h3>Мои контакты:</h3>
         <div align="center">
            <a href="https://t.me/sanyamanjz" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>  
+             <a href="https://hh.ru/resume/517a6e0eff053760280039ed1f6b71676d3147?hhtmFrom=resume_list"><img src="https://hhcdn.ru/icms/10132131.svg" /></a>  
           </div>
          <br />
       </td>
